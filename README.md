@@ -15,23 +15,13 @@
 </p>
 
 ### Osteoarthritis Initiative (OAI) dataset: 
-<p>The dataset analyzed during the current study is publicly available at the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a>.</p>
-
-### Collaborators:
-+ <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
-+ <a href="https://www.quincy.edu/directory/husam-ghazaleh-m-s/" target="_blank">Husam Ghazaleh</a>, PhD
-+ <a href="https://www.orthonet.pitt.edu/people/matthew-gong-md" target="_blank">Matthew Gong</a>, MD
-+ <a href="" target="_blank">Logan Finger</a>, MD
-+ <a href="https://pitthexai.github.io/people.html" target="_blank">Luke Carlson</a>, MS
-+ <a href="https://www.orthonet.pitt.edu/people/f-johannes-plate-md-phd" target="_blank">Johannes F. Plate</a>, MD, PhD
-+ <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
-
+<p>The entire dataset analyzed during the current study is publicly available at the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a>.</p>
 
 ### Acknowledgements
-<p align="justify">This work was supported in part by Oracle Cloud credits and related resources provided by <a href="https://www.oracle.com/research" target="_blank">Oracle for Research</a>. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Oracle for Research.</p>
+<p align="justify">This work was supported in part by Oracle Cloud credits and related resources provided by <a href="https://www.oracle.com/research" target="_blank">Oracle for Research</a>. Additionally, this work was also supported by the University of Pittsburgh Clinical and Translational Science Institute / National Institutes of Health (UL1TR001857). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the Oracle for Research and/or the University of Pittsburgh Clinical and Translational Science Institute / National Institutes of Health. The authors gratefully acknowledge the support of Oracle for Research, the University of Pittsburgh Clinical and Translational Science Institute, and the National Institutes of Health. The authors of the paper wish to thank the NIH National Institute of Aging for making the Osteoarthritis Initiative (OAI) imaging dataset available for open scientific research. </p>
 
 ### Publications:
 
-<p align="justify">The <strong>HexAI-TJAtxt</strong> dataset is fully explained in the following paper published at the <strong>Data in Brief</strong> journal. Any publication using the dataset would require to cite the following work:
+<p align="justify">This contribution is fully explained in the following manuscript, whihc is now under review at the <a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a>. Any publication using the dataset would require to cite the following work:
 <p align="justify">
-<strong>[1]</strong> Amirian S, Ghazaleh H, Carlson LA, Gong M, Finger L, Plate JF, Tafti AP. HexAI-TJAtxt: A textual dataset to advance open scientific research in total joint arthroplasty. Data in Brief. 2023 Oct 31:109738. [<a href="https://www.sciencedirect.com/science/article/pii/S2352340923008077" target="_blank">Paper</a>]</p>
+<strong>[1]</strong> Siddiqui et al.. HexAI-TJAtxt: AAdvancements in AI-Driven Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare. [Under Review]</p>
