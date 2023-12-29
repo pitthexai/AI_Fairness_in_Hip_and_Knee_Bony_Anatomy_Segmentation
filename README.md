@@ -4,13 +4,12 @@
 
 ### Directory Descriptions:
 + <p align="justify"><strong>Code Directory:</strong> This directory includes all Python code to implement the study.</p>
-+ <p align="justify"><strong>Sample Dataset:</strong> This directory covers a sample imaging dataset that includes both plain radiographs and the gold-standard manual segmentation.</p>
++ <p align="justify"><strong>Sample_Dataset Directory:</strong> This directory covers a sample imaging dataset that includes both plain radiographs and the gold-standard manual segmentation.</p>
 
 
 ### The proposed pipeline to build the HexAI-TJAtxt textual dataset:
 
-![alt text](https://github.com/pitthexai/AI_Fairness_in_Hip_and_Knee_Bony_Anatomy_Segmentation
-/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
+![alt text](https://github.com/pitthexai/AI_Fairness_in_Hip_and_Knee_Bony_Anatomy_Segmentation/blob/main/Figures/pipeline.png  "The proposed computational pipeline")
 </p>
 <p>Utilizing this proposed pipeline, the HexAI-TJAtxt dataset will be frequently updated in a bi-monthly manner employing new abstracts published at PubMed.
 </p>
