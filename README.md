@@ -22,6 +22,6 @@
 
 ### Publications:
 
-<p align="justify">This contribution is fully explained in the following manuscript, whihc is now under review at the <a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a>. Any publication using the dataset would require to cite the following work:
+<p align="justify">This contribution is fully explained in the following manuscript, whihc is now under review at the <a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a>. Any publication using this work would require to cite the following paper:
 <p align="justify">
-<strong>[1]</strong> Siddiqui et al.. HexAI-TJAtxt: AAdvancements in AI-Driven Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare. [Under Review]</p>
+<strong>[1]</strong> Siddiqui et al. HexAI-TJAtxt: AAdvancements in AI-Driven Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare. [Under Review]</p>
