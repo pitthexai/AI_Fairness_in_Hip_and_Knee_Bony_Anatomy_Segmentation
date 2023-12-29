@@ -14,11 +14,8 @@
 <p>
 </p>
 
-### HexAI-TJAtxt dataset: [Last Update: August 15, 2023]
-<p>Here, you can <strong>download</strong> the HexAI-TJAtxt dataset.</p>
-<p>HexAI-TJAtxt_Aug2023_XLSX.zip [<a href="https://drive.google.com/file/d/1mnlAugYMLO3cV5HDzQmzMV1RBVpnIV_Q/view?usp=sharing" target="_blank">Download</a>]</p>
-<p>HexAI-TJAtxt_Auge2023_CSV.zip [<a href="https://drive.google.com/file/d/1R5xpO6Oeye8R9T4gv_KfwpO74xWVvNNh/view?usp=sharing" target="_blank">Download</a>]</p>
-<p>HexAI-TJAtxt_Aug2023_JSON.zip [<a href="https://drive.google.com/file/d/1zWSSjOUkLGXfsS8pffjTStFixysibO95/view?usp=sharing" target="_blank">Download</a>]</p>
+### Osteoarthritis Initiative (OAI) dataset: 
+<p>The dataset analyzed during the current study is publicly available at the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a>.</p>
 
 ### Collaborators:
 + <a href="https://amiielab.github.io" target="_blank">Soheyla Amirian</a>, PhD
