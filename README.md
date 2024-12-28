@@ -22,7 +22,7 @@
 
 ### Citation:
 
-<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/articles/s41598-024-66873-6" target="_blank">Scientific Reports</a>. Any publication using this work would require to cite the following paper:
+<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/articles/s41598-024-66873-6" target="_blank">Nature-Scientific Reports</a>. Any publication using this work would require to cite the following paper:
 
   ```@article{siddiqui2024fair,
   title={Fair AI-powered orthopedic image segmentation: addressing bias and promoting equitable healthcare},
