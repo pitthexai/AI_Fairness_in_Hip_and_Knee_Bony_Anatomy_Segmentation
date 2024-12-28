@@ -20,8 +20,8 @@
 ### Acknowledgements:
 <p align="justify">This work was supported in part by Oracle Cloud credits and related resources provided by <a href="https://www.oracle.com/research" target="_blank">Oracle for Research</a>. Additionally, this work was also supported by the University of Pittsburgh Clinical and Translational Science Institute / National Institutes of Health (UL1TR001857). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the Oracle for Research and/or the University of Pittsburgh Clinical and Translational Science Institute / National Institutes of Health. The authors gratefully acknowledge the support of Oracle for Research, the University of Pittsburgh Clinical and Translational Science Institute, and the National Institutes of Health. The authors of the paper also thank the NIH National Institute of Aging for making the <a href="https://nda.nih.gov/oai" target="_blank"> Osteoarthritis Initiative (OAI)</a> available for open scientific research. </p>
 
-### Publications:
+### Citation:
 
-<p align="justify">This contribution is fully explained in the following manuscript, whihc is now under review at the <a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a>. Any publication using this work would require to cite the following paper:
+<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a>. Any publication using this work would require to cite the following paper:
 <p align="justify">
 <strong>[1]</strong> Siddiqui et al. HexAI-TJAtxt: AAdvancements in AI-Driven Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare. [Under Review]</p>
