@@ -22,6 +22,15 @@
 
 ### Citation:
 
-<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/srep/" target="_blank">Scientific Reports</a>. Any publication using this work would require to cite the following paper:
+<p align="justify">This contribution is fully explained in the following paper published through <a href="https://www.nature.com/articles/s41598-024-66873-6" target="_blank">Scientific Reports</a>. Any publication using this work would require to cite the following paper:
 <p align="justify">
-<strong>[1]</strong> Siddiqui et al. HexAI-TJAtxt: AAdvancements in AI-Driven Orthopedic Image Segmentation: Addressing Bias and Promoting Equitable Healthcare. [Under Review]</p>
+@article{siddiqui2024fair,
+  title={Fair AI-powered orthopedic image segmentation: addressing bias and promoting equitable healthcare},
+  author={Siddiqui, Ismaeel A and Littlefield, Nickolas and Carlson, Luke A and Gong, Matthew and Chhabra, Avani and Menezes, Zoe and Mastorakos, George M and Thakar, Sakshi Mehul and Abedian, Mehrnaz and Lohse, Ines and others},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={16105},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
