@@ -3,8 +3,8 @@
 </p>
 
 ### Directory Descriptions:
-+ <p align="justify"><strong>Code Directory:</strong> This directory includes all Python code to implement the study.</p>
-+ <p align="justify"><strong>Sample_Dataset Directory:</strong> This directory covers a sample imaging dataset that includes both plain radiographs and the gold-standard manual segmentation.</p>
++ <p align="justify"><strong>Code:</strong> This directory includes all Python code to implement the study.</p>
++ <p align="justify"><strong>Sample_Dataset:</strong> This directory covers a sample imaging dataset that includes both plain radiographs and the gold-standard manual segmentation.</p>
 
 
 ### The proposed computational pipeline:
